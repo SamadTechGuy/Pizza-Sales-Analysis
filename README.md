@@ -30,7 +30,8 @@ Data was provided by Maven Analytics Team and is a public dataset made available
 * The **total revenue** generated was **$817,860.05**. The **Thai Chicken Pizza** was the **Best Selling Pizza** by revenue - generated 
 **$43,434.25**. The **Brie Carre Pizza** was the **Worst Selling Pizza** by revenue - generated **$11,588.50**.
 ![Screenshot (125)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/855faa46-37f3-4bfe-92b2-dca817fe438b)
-
+* The **Average Order Value** was **$38.31**.
+* We have **15 tables** and **60 seats**. So, let us assume there are **4 seats per table**. From the analysis the seating capacity were well utilized and even in some hours the seats were empty but during the peak periods, the seats and tables were not enough. 
 
 
 
