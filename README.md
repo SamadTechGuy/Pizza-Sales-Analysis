@@ -19,3 +19,24 @@ Data was provided by Maven Analytics Team and is a public dataset made available
 * Creation of DAX (Data Analysis Expression) measures
 * Data modelling
 ![Screenshot (119)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/d4026580-f1f8-4717-a5c7-51c85eeb78a5)
+* Data visualization - Dashboard
+![Screenshot (116)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/a20596f7-eb80-41b0-b269-a2203290c5e5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
