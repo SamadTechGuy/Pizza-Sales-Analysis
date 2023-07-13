@@ -21,7 +21,8 @@ Data was provided by Maven Analytics Team and is a public dataset made available
 ![Screenshot (119)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/d4026580-f1f8-4717-a5c7-51c85eeb78a5)
 * Data visualization - Dashboard
 ![Screenshot (116)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/a20596f7-eb80-41b0-b269-a2203290c5e5)
-
+## Key Insights
+* The **busiest days** were at the end of the week on **Thursdays** and **Fridays** with orders of **3,239** and **3,538** and **busiest hours** were during the **lunch - 12 to 1pm** with orders of **2,520** and **2,455** and **dinner time - 5 to 6pm** with orders of **2,336** and **2,399**
 
 
 
