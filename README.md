@@ -35,6 +35,8 @@ Data was provided by Maven Analytics Team and is a public dataset made available
 * The **Average Order Value** was **$38.31**.
 * We have **15 tables** and **60 seats**. So, let us assume there are **4 seats per table**. From the analysis the seating capacity were well utilized and even in some hours the seats were empty but during the peak periods, the seats and tables were not enough.
 ## Other Insights...
+* The **Most Ordered Pizza** was **The Classic Deluxe Pizza** with **2,416 Orders** and the **Least Ordered Pizza** was **The Brie Carre Pizza** with **480 Orders**.
+![Screenshot (130)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/f8749e89-f56b-4593-92c1-7c846049d530)
 
 
 
