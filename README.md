@@ -37,6 +37,9 @@ Data was provided by Maven Analytics Team and is a public dataset made available
 ## Other Insights...
 * The **Most Ordered Pizza** was **The Classic Deluxe Pizza** with **2,416 Orders** and the **Least Ordered Pizza** was **The Brie Carre Pizza** with **480 Orders**.
 ![Screenshot (130)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/f8749e89-f56b-4593-92c1-7c846049d530)
+*  The **month of July** had the **highest sales** which accounted for **8.87%** of the total sales.
+![Screenshot (132)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/c190234b-3324-47db-9cc3-18e1cdf8b12f)
+ 
 
 
 
