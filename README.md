@@ -44,7 +44,7 @@ Data was provided by Maven Analytics Team and is a public dataset made available
 ## Recommendations
 *  I would recommend that there should be **an increase in the number of employees** during the peak periods and days to improve customer satisfaction and sales.
 *  Also, the **opening hours** should be reduced from **11am to 10pm** as it has been shown from the analysis that the **early hours - 9am to 10am and the last hour - 11pm generated the least orders, less 50 altogether** which was definitely affecting the operating costs. Furthermore, there should be **late night promotion** to encourage the customers to place more orders before 9pm so as to improve the sales.
-*  In addition, I would recommend that a survey should be run for the **sizes of the Worst 5 Selling Pizzas** to identify the most preferred pizzas with the best ones selling for juicy discounts so as to improve sales. This is due to the fact that S size pizza was only sold for the **Least Selling Pizza - The Brie Carre Pizza** and it ranked 2nd in revenue.
+*  In addition, I would recommend that a survey should be run for the **sizes of the Worst 5 Selling Pizzas** to identify the most preferred pizzas with the best ones selling for juicy discounts so as to improve sales. This is due to the fact that **S size pizza** was only sold for the **Least Selling Pizza - The Brie Carre Pizza** and it ranked 2nd in revenue.
 *   Lastly, it is recommended to offer promotional sales on months where sales and revenues were really low to help improve monthly revenue.
  
 
