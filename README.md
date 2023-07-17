@@ -43,7 +43,7 @@ Data was provided by Maven Analytics Team and is a public dataset made available
 ![Screenshot (134)](https://github.com/SamadTechGuy/Pizza-Sales-Analysis-Report/assets/97789215/d39ce994-6813-4000-aec4-133706b10562)
 ## Recommendations
 *  I would recommend that there should be **an increase in the number of employees** during the peak periods and days to improve customer satisfaction and sales.
-*  Also, the **opening hours** should be reduced from **11am to 10pm** as it has been shown from the analysis that the **early hours - 9am to 10am and the last hour - 11pm generated the least orders, less 50 altogether** which was definitely affecting the operating costs. Furthermore, there should be **late night promotion** to encourage the customers to place more orders before 9pm so as to improve the sales.
+*  Also, the **opening hours** should be reduced from **11am to 10pm** as it has been shown from the analysis that the **early hours - 9am to 10am and the last hour - 11pm generated the least orders, less than 50 altogether** which was definitely affecting the operating costs. Furthermore, there should be **late night promotion** to encourage the customers to place more orders before 9pm so as to improve the sales.
 *  In addition, I would recommend that a survey should be run for the **sizes of the Worst 5 Selling Pizzas** to identify the most preferred pizzas with the best ones selling for juicy discounts so as to improve sales. This is due to the fact that **S size pizza** was only sold for the **Least Selling Pizza - The Brie Carre Pizza** and it ranked 2nd in revenue.
 *   Lastly, it is recommended to offer promotional sales on months where sales and revenues were really low to help improve monthly revenue.
  
